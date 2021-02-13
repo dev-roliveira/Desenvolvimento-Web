@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<title>Flexbox - Flexible Box Layout</title>
+		<meta charset="utf-8">
+
+		<style type="text/css">
+			
+			#conteudo {
+				background: #dcdcdc;
+				height: 600px;
+				display: flex;
+
+				/*
+				row|row-reverse|column|column-reverse 
+				*/
+				/*flex-direction: row ;*/
+
+				/*
+				nowrap|wrap|wrap-reverse
+				*/
+				/*flex-wrap: nowrap ;*/
+
+				/*
+				flex-start|flex-end|center|space-between|space-around
+				*/
+				/*justify-content: space-around ;*/
+
+				/*
+				stretch|center|flex-start|flex-end|baseline
+				*/
+				/*align-items: baseline ;*/
+
+			}
+
+			.item {
+				width: 200px;
+				height: 100px;
+				margin: 10px;
+				background: white;
+				border: 1px solid gray;
+				flex-grow: 0; /*Define a proporção de um espaço ocupado por um item*/
+
+				flex-shrink: 1; /*Define a capacidade de redução de tamanho do item*/
+
+				flex-basis: auto;/*Indica o tamanho inicial do flex item antes da distribuição do espaço restante*/
+			}
+
+			.item1{
+				flex-grow: 1;
+			}
+
+			.item2{
+				flex-grow: 1;
+				flex-shrink: 2;
+			}
+
+			.item3{
+				flex-basis: 100;
+			}
+
+			.order1{
+				order: 1;
+			}
+
+			.order2{
+				order: 2;
+			}
+
+			.order3{
+				order: 3;
+			}
+
+			.order4{
+				order: 4;
+			}
+
+		</style>
+
+	</head>
+
+	<body>	
+
+		<h1>Flexbox</h1>
+		<div id="conteudo">
+			<div class="item item1">01</div>
+			<div class="item item2">02</div>
+			<div class="item item3">03</div>
+			<div class="item">04</div>
+		</div>
+
+		
+	</body>
+
+</html>

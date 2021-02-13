@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Input</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+	<form>
+		<!-- Nome -->
+		<label for="nome">Nome</label>
+		<input type="text" name="nome" id="nome" autofocus>
+		<br><br>
+		<!-- E-mail -->
+		<label for="email">Email</label>
+		<input type="email" name="email" id="email" required="required">
+		<br><br>
+		<!-- Numero -->
+		<label for="numero">Numero</label>
+		<input type="number" name="numero" id="numero" required="required" min="5" max="10">
+		<br><br>
+		<!-- Url -->
+		<label for="url">Url</label>
+		<input type="url" name="url" id="url" required="required" placeholder="ex: http://">
+		<br><br>
+		<!-- Pesquisa -->
+		<label for="search">Pesquisa</label>
+		<input type="search" name="search" id="search">
+		<br><br>
+		<!-- Range -->
+		<label for="range">Range</label>
+		<input type="range" name="range" id="range" min="0" max="20" value="10">
+		<br><br>
+		<!-- Data -->
+		<label for="data">Data</label>
+		<input type="date" name="data" id="data">
+		<br><br>
+		<!-- Cor -->
+		<label for="cor">Cor</label>
+		<input type="color" name="cor" id="cor">
+		<br><br>
+		<input type="submit" name="" value="Enviar">
+	</form>
+</body>
+</html>

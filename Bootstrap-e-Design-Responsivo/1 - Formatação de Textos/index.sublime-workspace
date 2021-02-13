@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"navbar-tog",
+				"navbar-toggler-icon"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/9 - Navegacao/apoio-barra-navegacao.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/7 - Media Queries/apoio-breakpoints.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/8 - Botoes/apoio-botoes.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/7 - Media Queries/css/estilo-impressao.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/7 - Media Queries/css/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/7 - Media Queries/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/7 - Media Queries/Likns - Uteis.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/6 - Tamanhos e Bordas/apoio-tamanhos-bordas.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/5 - Margin e Padding/apoio-margin-padding.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/4 - Cores e Background/apoio-cores-background.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/3 - Elementos Flutuantes/elementos-flutuantes.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/1 - Formatação de Textos/css/bootstrap.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/2 - Alinhamento de Textos/alinhamento-textos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/1 - Formatação de Textos/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/Bootstrap e Design Responsivo/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Flexbox/flexbox-container.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Flexbox/flexbox-container2.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Novas Tags HTML5/input.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Novas Tags HTML5/compatibilidade.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Header Nav e Footer/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Header Nav e Footer/Article, Section, Aside e Time.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Header Nav e Footer/novas-tags.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Header Nav e Footer/tags1.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Transições/Transicoes.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Transições/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Animações/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Animações/Animacoes.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Sombras/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Sombras/Sombras.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Degrade e Transparência/Degrade.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Degrade e Transparência/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Border Radius e Box Sizing/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Parágrafos/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Formatação de Textos/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/Border Radius e Box Sizing/Border Radius e Box Sizing.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/normalize.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS3 Recursos/normalize.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/fontes/fonts/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/parallax/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/noticias-cidade/css/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/noticias-cidade/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/chale-hotel/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/Design Fluido/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/Design Fluido/estilos.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/58-Navegação com abas/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/58-Navegação com abas/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/58-Navegação com abas/servicos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/58-Navegação com abas/sobre.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56. criando barra de navegação horizontal/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56. criando barra de navegação horizontal/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56. criando barra de navegação horizontal/sobre.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56. criando barra de navegação horizontal/servicos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56-Marcando página atual/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56-Marcando página atual/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56-Marcando página atual/noticias.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56-Marcando página atual/contato.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56-Marcando página atual/servicos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/56-Marcando página atual/sobre.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/55. criando barra de navegação vertical/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/55. criando barra de navegação vertical/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/estilos-textos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/inline_style.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/fontes-cores.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/Herança e especificidade/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/Herança e especificidade/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/53. Mais sobre seletores/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/53. Mais sobre seletores/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/TecBlog/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/TecBlog/css/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Trabalhando com Imagens/PrimeiroProjeto/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Tabelas/index(1).html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Formulários/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Caracteres Especiais/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Cabeçalhos/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/posicionamentos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Estrutura Página da Web/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Estrutura Página da Web (2)/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/17-arquivos-da-aula-elementos-inline-block.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/arquivos-da-aula-elementos-flutuantes-pratica/elementos-flutuantes-pratica.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/16-arquivos-da-aula-elementos-flutuantes-pratica/elementos-flutuantes-pratica.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/16-arquivos-da-aula-elementos-flutuantes-pratica/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/41. Elementos Flutuantes/Aula 02/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/41. Elementos Flutuantes/Aula 02/elementos-flutuantes.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/41. Elementos Flutuantes/Aula 02/modelo-caixa.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/41. Elementos Flutuantes/index.html",
+		"/C/Users/renan/Desktop/teste.html",
+		"/C/Users/renan/Desktop/div.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/14-arquivos-da-aula-modelo-caixa/modelo-caixa.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/14-arquivos-da-aula-modelo-caixa/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/div-span.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/Anna Bella/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/Anna Bella/contato.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/Anna Bella/campanhas.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/38. #ProjetoAnna Bella parte 2/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/bordas.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/37. #ProjetoAnna Bella/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/37. #ProjetoAnna Bella/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/CSS Externo/estilo.css",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/CSS Externo/pagina1.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/cor-imagem-fundo.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/tamanhos-textos.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/classes-ids.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/inline_style2.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/CSS/seletores.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Listas Ordenadas e Não Ordenadas/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/HTML/Tabelas/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/UNES - Universidade/contato.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projetos/UNES - Universidade/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Anotações e Códigos/Primeiro Projeto/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Anotações e Códigos/Primeiro Projeto/contato.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Primeiro Projeto/projeto.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Primeiro Projeto/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Trabalhando com Imagens/PrimeiroProjeto/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projeto Web/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projeto Aula/Javascript/index.html",
+		"/C/Users/renan/Documents/Github/Desenvolvimento Web/HTML e CSS/Projeto Aula/CSS/estilo.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
