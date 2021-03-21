@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>JavaScript</title>
+
+  <script>
+    // setTimeout(function(){document.write('Teste')}, 3000)
+
+    var i = 5
+   var x =  setInterval(function() {
+      document.write(i)
+      i--
+      if(i === 0){
+        clearInterval(x)
+      }
+    }, 1000)
+
+
+    //setInterval(function(){document.write('Teste' + '<br />')}, 2000)
+  </script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
