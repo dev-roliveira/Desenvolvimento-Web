@@ -1,0 +1,113 @@
+<html>
+	<head>
+		<title>Calculadora</title>
+
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+
+	</head>
+
+  <body style="background: #D9D9D9">
+      <div class="dropdown float-right">
+            <button style="width: auto;" class="btn btn-dark btn-sm font-weight-ligh dropdown-toggle" data-toggle="dropdown" type="button" id="seletor">-- Selecione o Tema da Calculadora --</button>
+              <div class="dropdown-menu">
+                <button onclick="formatar('#212529')"class="dropdown-item" type="button">-- Dark --</button>
+                <button onclick="formatar('#0dcaf0')"class="dropdown-item" type="button">-- Blue --</button>
+                <button onclick="formatar('#ffc107')"class="dropdown-item" type="button">-- Yellow --</button>
+                <button onclick="formatar('#dc3545')" class="dropdown-item" type="button">-- Red --</button>
+              </div>
+        </div>
+      <div class="container">
+        <div class="row">
+        <div class="col d-flex justify-content-center">
+          <br />
+
+          <div class="calculadora">
+            <input type="text" id="resultado" class="form-control resultado" placeholder="0" disabled="disabled" />
+            
+            <div class="row" id="botoes">
+              <button onclick="calcular('acao', 'c')" type="button" class="btn btn-dark btn-lg clear font-weight-light" id="clr">C</button>
+              <button onclick="calcular('acao', '/')" type="button" class="btn btn-dark btn-lg font-weight-light" id="divisao">/</button>
+              <button onclick="calcular('acao', '*')" type="button" class="btn btn-dark btn-lg font-weight-light" id="mult">x</button>
+            </div>
+
+            <div class="row" id="botoes">
+              <button onclick="calcular('valor', 7)" type="button" class="btn btn-dark btn-lg font-weight-light" id="VII">7</button>
+              <button onclick="calcular('valor', 8)" type="button" class="btn btn-dark btn-lg font-weight-light" id="VIII">8</button>
+              <button onclick="calcular('valor', 9)" type="button" class="btn btn-dark btn-lg font-weight-light" id="IX">9</button>
+              <button onclick="calcular('acao', '-')" type="button" class="btn btn-dark btn-lg font-weight-light" id="sub">-</button>
+            </div>
+            
+            <div class="row" id="botoes">
+              <button onclick="calcular('valor', 4)" type="button" class="btn btn-dark btn-lg font-weight-light" id="IV">4</button>
+              <button onclick="calcular('valor', 5)" type="button" class="btn btn-dark btn-lg font-weight-light" id="V">5</button>
+              <button onclick="calcular('valor', 6)" type="button" class="btn btn-dark btn-lg font-weight-light" id="VI">6</button>
+              <button onclick="calcular('acao', '+')" type="button" class="btn btn-dark btn-lg font-weight-light" id="soma">+</button>
+            </div>
+
+            <div class="row" id="botoes">
+              <button onclick="calcular('valor', 1)" type="button" class="btn btn-dark btn-lg font-weight-light" id="I">1</button>
+              <button onclick="calcular('valor', 2)" type="button" class="btn btn-dark btn-lg font-weight-light" id="II">2</button>
+              <button onclick="calcular('valor', 3)" type="button" class="btn btn-dark btn-lg font-weight-light" id="III">3</button>
+              <button onclick="calcular('acao', '=')" type="button" class="btn btn-dark btn-lg enter" id="igual">=</button>
+            </div>
+
+            <div class="row" style="margin-top: -60px" id="botoes">
+              <button onclick="calcular('valor', 0)" type="button" class="btn btn-dark zero btn-lg font-weight-light" id="zero">0</button>
+              <button onclick="calcular('acao', '.')" type="button" class="btn btn-dark btn-lg font-weight-light" id="dot">.</button>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <script>
+      function calcular(tipo, valor){
+        if(tipo === 'acao') {
+          if(valor === 'c'){
+            //limpar o visor
+            document.getElementById('resultado').value = ''
+          }
+          if(valor === '+' || valor === '-' || valor === '*' || valor === '/' || valor === '.'){
+            document.getElementById('resultado').value += valor
+          }
+          if(valor === '=') {
+            var valor_campo = eval(document.getElementById('resultado').value)
+            document.getElementById('resultado').value = valor_campo
+          }
+        } else if (tipo === 'valor') {
+
+          document.getElementById('resultado').value += valor
+        }
+      }
+    </script>
+     <script>
+      function formatar(CorDeFundo) {
+        document.getElementById('clr').style.backgroundColor=CorDeFundo
+        document.getElementById('divisao').style.backgroundColor=CorDeFundo
+        document.getElementById('mult').style.backgroundColor=CorDeFundo
+        document.getElementById('soma').style.backgroundColor=CorDeFundo
+        document.getElementById('sub').style.backgroundColor=CorDeFundo
+        document.getElementById('igual').style.backgroundColor=CorDeFundo
+        document.getElementById('dot').style.backgroundColor=CorDeFundo
+        document.getElementById('IX').style.backgroundColor=CorDeFundo
+        document.getElementById('VIII').style.backgroundColor=CorDeFundo
+        document.getElementById('VII').style.backgroundColor=CorDeFundo
+        document.getElementById('VI').style.backgroundColor=CorDeFundo
+        document.getElementById('V').style.backgroundColor=CorDeFundo
+        document.getElementById('IV').style.backgroundColor=CorDeFundo
+        document.getElementById('III').style.backgroundColor=CorDeFundo
+        document.getElementById('II').style.backgroundColor=CorDeFundo
+        document.getElementById('I').style.backgroundColor=CorDeFundo
+        document.getElementById('zero').style.backgroundColor=CorDeFundo
+        
+      }
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>	
+
+</html>
