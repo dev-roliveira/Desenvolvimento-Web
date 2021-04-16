@@ -7,5 +7,5 @@
 <img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/css3.png'>
 <img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/js.png'>
 <img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/bootstrap_stack.png'>
-<img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/es6.jpeg'>
+<img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/es6.jpeg'>
 </p>
