@@ -2,7 +2,7 @@
 <h2 align="center"> Arquivos e Projetos </h2>
 <br>
 <hr>
-<p align="center">
+<p>
 <img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/html5.png'>
 <img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/css3.png'>
 <img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/js.png'>
