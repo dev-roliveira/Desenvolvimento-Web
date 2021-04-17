@@ -3,11 +3,11 @@
 <br>
 <hr>
 <p>
-<img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/html5.png'>
-<img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/css3.png'>
-<img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/js.png'>
-<img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/bootstrap_stack.png'>
-<img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/es6.jpeg'>
-<img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/php.png'>
-<img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/mysql.png'>
+<a><img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/html5.png'></a>
+<a><img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/css3.png'></a>
+<a><img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/js.png'></a>
+<a><img width=50px height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/bootstrap_stack.png'></a>
+<a><img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/es6.jpeg'></a>
+<a><img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/php.png'></a>
+<a><img height=50px align=left src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/mysql.png'></a>
 </p>
