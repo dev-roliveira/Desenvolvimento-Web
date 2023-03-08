@@ -9,8 +9,6 @@
 <a><img width=50px height=50px src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/js.png'></a>
 <a><img width=50px height=50px src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/bootstrap_stack.png'></a>
 <a><img height=50px src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/es6.jpeg'></a>
-<a><img height=50px src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/php.png'></a>
-<a><img height=50px src='https://github.com/dev-roliveira/Desenvolvimento-Web/blob/master/Assets/mysql.png'></a>
 </p>
 <br><hr><br>
 <h4>Arquivos de códigos e Projetos desenvolvidos utilizando as ferramentas relacionadas acima.</h3>
